@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = MemeBotUtfpr::VERSION
   s.authors     = ["edumoreira1506"]
   s.email       = []
-  s.homepage    = "https://github.com/edumoreira1506/meme-bot"
+  s.homepage    = "https://github.com/edumoreira1506/meme_bot_utfpr"
   s.summary     = "MemeBotUtfpr."
   s.description = "The best meme bot generation of the world."
   s.license     = "MIT"
